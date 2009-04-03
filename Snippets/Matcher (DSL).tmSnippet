@@ -4,9 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>Spec::Matchers.create ${1::look_like} do |meringue|
-  match do |substance|
-    substance.looks_like?(meringue)
-  end
+	match do |substance|
+		substance.looks_like?(meringue)
+	end
 end
 </string>
 	<key>name</key>
